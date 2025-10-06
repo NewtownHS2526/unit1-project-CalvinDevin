@@ -4,11 +4,7 @@ div {
     border-width: 2px;
     border-color: black;
   }
-  
-  img {
-    max-width: 80%;
-    float: right;
-  }
+
   
   #header {
     background-color: #d4a373;
@@ -18,7 +14,8 @@ background-color: #94e3fe;
   
 }
 img {
-    width: 50%;
+    width: 46%;
     Height: 50%;
-  
+    float: right;
+    margin: 10px;
 }
